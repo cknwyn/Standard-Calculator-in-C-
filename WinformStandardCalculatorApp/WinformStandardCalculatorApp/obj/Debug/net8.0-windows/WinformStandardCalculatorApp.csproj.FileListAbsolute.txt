@@ -1,0 +1,16 @@
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\bin\Debug\net8.0-windows\WinformStandardCalculatorApp.exe
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\bin\Debug\net8.0-windows\WinformStandardCalculatorApp.deps.json
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\bin\Debug\net8.0-windows\WinformStandardCalculatorApp.runtimeconfig.json
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\bin\Debug\net8.0-windows\WinformStandardCalculatorApp.dll
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\bin\Debug\net8.0-windows\WinformStandardCalculatorApp.pdb
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.Form1.resources
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.csproj.GenerateResource.cache
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.AssemblyInfoInputs.cache
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.AssemblyInfo.cs
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.csproj.CoreCompileInputs.cache
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.dll
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\refint\WinformStandardCalculatorApp.dll
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.pdb
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\WinformStandardCalculatorApp.genruntimeconfig.cache
+C:\OOP10-BSCS2A Pamandanan\WinformStandardCalculatorApp\WinformStandardCalculatorApp\obj\Debug\net8.0-windows\ref\WinformStandardCalculatorApp.dll
