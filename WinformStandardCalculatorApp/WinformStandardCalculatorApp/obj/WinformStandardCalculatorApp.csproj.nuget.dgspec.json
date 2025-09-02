@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OOP10-BSCS2A Pamandanan\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj": {}
+    "F:\\Zefwyn\\Documents\\Disk Documents\\Documents\\2nd Year\\OOP10\\StandardCalculator\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj": {}
   },
   "projects": {
-    "C:\\OOP10-BSCS2A Pamandanan\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj": {
+    "F:\\Zefwyn\\Documents\\Disk Documents\\Documents\\2nd Year\\OOP10\\StandardCalculator\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OOP10-BSCS2A Pamandanan\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj",
+        "projectUniqueName": "F:\\Zefwyn\\Documents\\Disk Documents\\Documents\\2nd Year\\OOP10\\StandardCalculator\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj",
         "projectName": "WinformStandardCalculatorApp",
-        "projectPath": "C:\\OOP10-BSCS2A Pamandanan\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\OOP10-BSCS2A Pamandanan\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\obj\\",
+        "projectPath": "F:\\Zefwyn\\Documents\\Disk Documents\\Documents\\2nd Year\\OOP10\\StandardCalculator\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp.csproj",
+        "packagesPath": "C:\\Users\\Zefwyn\\.nuget\\packages\\",
+        "outputPath": "F:\\Zefwyn\\Documents\\Disk Documents\\Documents\\2nd Year\\OOP10\\StandardCalculator\\WinformStandardCalculatorApp\\WinformStandardCalculatorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zefwyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
